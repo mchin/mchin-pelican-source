@@ -1,0 +1,50 @@
+.navbar-default {
+background: #000;
+}
+
+a.navbar-brand {
+/*color: #6B53CA!important;*/
+color: #fff!important;
+font-size: 22px;
+}
+
+.navbar ul li a {
+color: #6B53CA!important;
+font-size: 16px;
+}
+
+.navbar ul li a:hover {
+  color: #fff!important;
+}
+
+article h2 a {
+font-size: 20px;
+
+}
+
+.entry-title {
+  font-size: 25px;
+}
+
+input, textarea {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: solid 1px #000;
+}
+h1, h2, h3, h4, a, #aboutme strong, #social a {
+  color: #6B53CA;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.well {
+background-color: #fff;
+border: solid 1px #6B53CA;
+}
+
+input[type=submit] {
+  color: #6B53CA;
+}
