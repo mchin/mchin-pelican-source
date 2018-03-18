@@ -3,6 +3,21 @@ slug: projects
 
 Here are a few projects that I've worked on over the years.
 
+### BobbieG & Gregory
+
+[bobbieg.com](http://bobbieg.com)
+
+**Website Redesign**
+
+From This:
+
+  ![BobbieG Old Version](../images/bobbieg-old.jpg "BobbieG Old Version")
+
+  to This:  
+
+  ![BobbieG New Version](../images/bobbieg-new.jpg "BobbieG New Version")
+
+
 ### Viator  
 
 [Newsletter Signup Modal](https://gist.github.com/mchin/6751592c11f289d29e3c7a8fb3a0c784)
